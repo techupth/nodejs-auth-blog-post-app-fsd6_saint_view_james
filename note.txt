@@ -1,0 +1,8 @@
+post 
+http://localhost:4000/auth/register 
+{
+      "username": "user’s username",
+      "password": "user’s password",
+      "firstName": "user’s firstname",
+      "lastName": "user’s lastname"
+    }
