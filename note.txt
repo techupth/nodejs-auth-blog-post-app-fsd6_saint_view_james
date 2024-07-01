@@ -6,3 +6,6 @@ http://localhost:4000/auth/register
       "firstName": "user’s firstname",
       "lastName": "user’s lastname"
     }
+
+//user test
+admintest adminpass
